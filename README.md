@@ -1,16 +1,8 @@
 # Hi visitant 👋 <h1>
-
+ <br>
 #### I'm  Gustavo Ellwanger, graduated in Civil Engineering, currently studying Web Development at Trybe and Data Science at Alura. <h4>
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-  
-<a href="https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact" />
-</a>
- 
  <br>
 
 ```javascript
@@ -23,6 +15,15 @@ const gellwanger = {
 };
 ```
 <br>
+ 
+ <a href="https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact" />
+</a>
+ 
+ <br>
   
   
 ## My Skill Set  
@@ -79,3 +80,8 @@ const gellwanger = {
 
 
 <br>
+ 
+ ## Connect with me:
+<br>
+<a href="https://www.linkedin.com/in/gustavo-ellwanger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
