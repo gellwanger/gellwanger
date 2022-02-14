@@ -1,87 +1,29 @@
-# Hi visitant 👋 <h1>
- <br>
-#### I'm  Gustavo Ellwanger, graduated in Civil Engineering, currently studying Web Development at Trybe and Data Science at Alura. <h4>
+## Hello World, I'm Gustavo! :floppy_disk:
 
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
- <br>
+![gellwanger's github stats](https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark&count_private=true)
 
-```javascript
-const gellwanger = {
-    pronouns: "He" | "Him",
-    currentFocus: "Python",
-    country: "Brazil",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
-};
-```
-<br>
- 
- <a href="https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact" />
-</a>
- 
- <br>
-  
-  
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I'm Gustavo Ellwanger, a Web Development Software student at Trybe. I'm passionate about books, games, technology and podcasts. I've got a B.S in **Civil Engineering** in 2020 from Unisinos in Brazil. I'm also studying Data Science at alura, to become a Data Engineer in the future.
 
 
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
- ### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavo-ellwanger/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustavojce@gmail.com)
 
 
+## This is what I'm up to:
+- 🌱 I’m currently learning **Back-end(Node.js, TypeScript, MySQL and MogoDB** at Trybe and **Python(Seaborn and Pandas), R and Jupyter** at Alura.
+- :open_book: I’m currently researching Curriculum Learning on the environment **[Gym Hero](https://github.com/romulofff/gym-hero)**
+- 👯 I’m looking to collaborate on Data Science and Machine Learning projects 
+- 💬 Ask me about **Python**, **Data Science**, **Books (medieval/fantasy)** and **Video Games**!
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-</div>
-
-</td></tr></table>  
+## I mainly code using:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<br>
- 
- ## Connect with me:
-<br>
-<a href="https://www.linkedin.com/in/gustavo-ellwanger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gellwanger&layout=compact&theme=dark&langs_count=6) 
 
