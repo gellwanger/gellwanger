@@ -11,7 +11,6 @@ I'm Gustavo Ellwanger, a Web Development Software student at Trybe. I'm passiona
 
 ## This is what I'm up to:
 - 🌱 I’m currently learning **Back-end(Node.js, TypeScript, MySQL and MogoDB** at Trybe and **Python(Seaborn and Pandas), R and Jupyter** at Alura.
-- :open_book: I’m currently researching Curriculum Learning on the environment **[Gym Hero](https://github.com/romulofff/gym-hero)**
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects 
 - 💬 Ask me about **Python**, **Data Science**, **Books (medieval/fantasy)** and **Video Games**!
 
