@@ -17,7 +17,6 @@ I'm Gustavo Ellwanger, a Web Development Software student at Trybe and I've got 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![gellwanger's github stats](https://github-readme-stats.vercel.app/api?username=gellwanger&show_icons=true&theme=dark&count_private=true)
 
